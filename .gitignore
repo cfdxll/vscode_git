@@ -1,0 +1,4 @@
+# Business intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.setting
